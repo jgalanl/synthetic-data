@@ -166,11 +166,13 @@ cython_debug/
 /data
 
 # Autogluon data
-/examples/AutogluonModels
+/examples/autogluon/AutogluonModels
 
 # Results data
 /results
 
 # Tests scripts
-
 /tests
+
+# Documents
+/docs
