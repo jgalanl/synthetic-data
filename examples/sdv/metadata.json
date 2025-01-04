@@ -1,6 +1,6 @@
 {
     "tables": {
-        "healthcare-dataset-stroke-data": {
+        "strokes": {
             "primary_key": "id",
             "columns": {
                 "id": {
