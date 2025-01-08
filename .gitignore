@@ -163,10 +163,11 @@ cython_debug/
 
 
 # Private data
-/data
+/data/real
 
 # Autogluon data
-/examples/autogluon/AutogluonModels
+autogluon/real
+*AutogluonModels
 
 # Results data
 /results
