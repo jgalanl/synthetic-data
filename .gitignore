@@ -166,8 +166,8 @@ cython_debug/
 /data/real
 
 # Autogluon data
-autogluon/real
-*AutogluonModels
+autogluon/real/AutogluonModels
+autogluon/strokes/AutogluonModels
 
 # Results data
 /results
