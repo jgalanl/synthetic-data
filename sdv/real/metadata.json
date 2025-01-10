@@ -2,19 +2,7 @@
     "tables": {
         "TLP": {
             "columns": {
-                "ISC.FPacientes.IDUsuario": {
-                    "sdtype": "id"
-                },
-                "ISC.FPacientes.etiquetaDiagnosticaExpTLP": {
-                    "sdtype": "categorical"
-                },
                 "ED_2Clases": {
-                    "sdtype": "categorical"
-                },
-                "ISC.FPacientes.etiquetaDiagnostica": {
-                    "sdtype": "categorical"
-                },
-                "ED_MMSE_2Clases": {
                     "sdtype": "categorical"
                 },
                 "ISC.FPacientes.genero": {
@@ -174,8 +162,7 @@
                     "sdtype": "categorical"
                 },
                 "ISC.resultadosOtros.frecUsoEmail": {
-                    "sdtype": "email",
-                    "pii": true
+                    "sdtype": "categorical"
                 },
                 "ISC.resultadosOtros.frecUsoMovil": {
                     "sdtype": "categorical"
@@ -222,23 +209,11 @@
                 "ISC.resultadosReservaCognitiva.ocupacion": {
                     "sdtype": "categorical"
                 },
-                "ISC.resultadosWFQ.DE_array": {
-                    "sdtype": "unknown",
-                    "pii": true
-                },
                 "ISC.resultadosWFQ.DE_total.PD": {
                     "sdtype": "numerical"
                 },
-                "ISC.resultadosWFQ.NO_array": {
-                    "sdtype": "unknown",
-                    "pii": true
-                },
                 "ISC.resultadosWFQ.NO_total.PD": {
                     "sdtype": "numerical"
-                },
-                "ISC.resultadosWFQ.SA_array": {
-                    "sdtype": "unknown",
-                    "pii": true
                 },
                 "ISC.resultadosWFQ.SA_total.PD": {
                     "sdtype": "numerical"
@@ -666,8 +641,7 @@
                 "TLP.Tavec.32_Recon-Ac_frente_RCl-LP.PZ": {
                     "sdtype": "numerical"
                 }
-            },
-            "primary_key": "ISC.FPacientes.IDUsuario"
+            }
         }
     },
     "relationships": [],
