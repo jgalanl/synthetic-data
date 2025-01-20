@@ -166,8 +166,7 @@ cython_debug/
 data/*/*Identia.xlsx
 
 # Autogluon data
-autogluon/real/AutogluonModels
-autogluon/strokes/AutogluonModels
+autogluon/*/AutogluonModels
 
 # Results data
 /results
