@@ -1,0 +1,64 @@
+{
+    "tables": {
+        "TRV": {
+            "columns": {
+                "ED_2Clases": {
+                    "sdtype": "categorical"
+                },
+                "ISC.FPacientes.genero": {
+                    "sdtype": "categorical"
+                },
+                "ISC.resultadosObservacion.alcohol": {
+                    "sdtype": "categorical"
+                },
+                "ISC.resultadosObservacion.enfermedadesDiabetes": {
+                    "sdtype": "categorical"
+                },
+                "ISC.resultadosReservaCognitiva.Total.PD": {
+                    "sdtype": "numerical"
+                },
+                "ISC.resultadosReservaCognitiva.escolaridad": {
+                    "sdtype": "categorical"
+                },
+                "TRV.LeidenNT.CaminosTopgrafico_total.PD": {
+                    "sdtype": "categorical"
+                },
+                "TRV.LeidenNT.PuntoReferencia_total.PD": {
+                    "sdtype": "categorical"
+                },
+                "TRV.LeidenNT.UbicacionAlocentrica_total.PD": {
+                    "sdtype": "categorical"
+                },
+                "TRV.Stroop.color.PD": {
+                    "sdtype": "numerical"
+                },
+                "TRV.Stroop.palabras.PD": {
+                    "sdtype": "numerical"
+                },
+                "TRV.Tavec.05_Rg-Md.PD": {
+                    "sdtype": "numerical"
+                },
+                "TRV.Tavec.10_RCl-LP.PD": {
+                    "sdtype": "numerical"
+                },
+                "TRV.Tavec.12_ESem-RI-B.PD": {
+                    "sdtype": "categorical"
+                },
+                "TRV.Tavec.14_ESem-RL-LP.PD": {
+                    "sdtype": "numerical"
+                },
+                "TRV.Tavec.17_ESer-RL-CP.PD": {
+                    "sdtype": "categorical"
+                },
+                "TRV.Tavec.20_I-RL.PD": {
+                    "sdtype": "numerical"
+                },
+                "TRV.Tavec.24_Discriminabilidad.PD": {
+                    "sdtype": "numerical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}

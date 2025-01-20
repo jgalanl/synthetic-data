@@ -163,7 +163,7 @@ cython_debug/
 
 
 # Private data
-/data/real
+data/*/*Identia.xlsx
 
 # Autogluon data
 autogluon/real/AutogluonModels
