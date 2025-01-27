@@ -181,3 +181,5 @@ autogluon/*/AutogluonModels
 /llm/rtf_checkpoints
 
 /llm/test
+
+/llm/rtf_model
