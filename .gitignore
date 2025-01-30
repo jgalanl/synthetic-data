@@ -168,9 +168,6 @@ data/*/*Identia*.xlsx
 # Autogluon data
 autogluon/*/AutogluonModels
 
-# Results data
-/results
-
 # Tests scripts
 /tests
 
