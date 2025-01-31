@@ -55,15 +55,6 @@
                 "clin-fumador": {
                     "sdtype": "categorical"
                 },
-                "clin-numCigarros": {
-                    "sdtype": "numerical"
-                },
-                "clin-a\u00f1osSinFumar": {
-                    "sdtype": "numerical"
-                },
-                "clin-tipoAlcohol": {
-                    "sdtype": "categorical"
-                },
                 "clin-Covid_sintomaSarpullido": {
                     "sdtype": "categorical"
                 },
