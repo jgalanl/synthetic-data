@@ -164,6 +164,9 @@ cython_debug/
 
 # Private data
 data/*/*Identia*.xlsx
+preprocessing/boxplots
+data/test
+data/train
 
 # Autogluon data
 autogluon/*/AutogluonModels
