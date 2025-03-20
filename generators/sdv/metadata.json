@@ -20,6 +20,21 @@
                 "clin-reservaCognitiva_escolaridad": {
                     "sdtype": "categorical"
                 },
+                "clin-reservaCognitiva_escolaridadPadres": {
+                    "sdtype": "categorical"
+                },
+                "clin-reservaCognitiva_cursos": {
+                    "sdtype": "categorical"
+                },
+                "clin-reservaCognitiva_formacionMusical": {
+                    "sdtype": "categorical"
+                },
+                "clin-reservaCognitiva_actividadLectora": {
+                    "sdtype": "categorical"
+                },
+                "clin-reservaCognitiva_juegos": {
+                    "sdtype": "categorical"
+                },
                 "clin-ansiedad": {
                     "sdtype": "categorical"
                 },
@@ -38,13 +53,116 @@
                 "clin-Hipertension": {
                     "sdtype": "categorical"
                 },
+                "clin-enfermedadesAltTiroides": {
+                    "sdtype": "categorical"
+                },
+                "clin-enfermedadesRenal": {
+                    "sdtype": "categorical"
+                },
+                "clin-enfermedadesHepatica": {
+                    "sdtype": "categorical"
+                },
+                "clin-enfermedadesAntecedentesCardiacos": {
+                    "sdtype": "categorical"
+                },
+                "clin-tratCronico": {
+                    "sdtype": "categorical"
+                },
+                "clin-tratPsicologico": {
+                    "sdtype": "categorical"
+                },
+                "clin-tratPsiquiatrico": {
+                    "sdtype": "categorical"
+                },
+                "clin-familiaresAlzheimer": {
+                    "sdtype": "categorical"
+                },
+                "clin-familiaresOtraDemencia": {
+                    "sdtype": "categorical"
+                },
                 "clin-alcohol": {
                     "sdtype": "categorical"
                 },
                 "clin-fumador": {
                     "sdtype": "categorical"
                 },
+                "clin-entornoUrbano": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_vacunado": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_numDosis": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_pasadoCovid": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_numVecesCovid": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_sintomaDifRespirar": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_sintomaDolMuscular": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_sintomaEscalofrios": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_sintomaDolGarganta": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_sintomaFiebre": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_sintomaDolCabeza": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_sintomaDiarrea": {
+                    "sdtype": "categorical"
+                },
                 "clin-Covid_sintomaSarpullido": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_sintomaPerOlfato": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_sintomaPerGusto": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_sintomaCansancio": {
+                    "sdtype": "categorical"
+                },
+                "clin-Covid_sentimientoAislado": {
+                    "sdtype": "categorical"
+                },
+                "clin-nivelSociabilidad": {
+                    "sdtype": "categorical"
+                },
+                "clin-nivelActFisica": {
+                    "sdtype": "categorical"
+                },
+                "clin-frecUsoOrdenador": {
+                    "sdtype": "categorical"
+                },
+                "clin-frecUsoMovil": {
+                    "sdtype": "categorical"
+                },
+                "clin-frecUsoTele": {
+                    "sdtype": "categorical"
+                },
+                "clin-frecUsoEmail": {
+                    "sdtype": "email",
+                    "pii": true
+                },
+                "clin-frecUsoRSociales": {
+                    "sdtype": "categorical"
+                },
+                "clin-frecOlvidos": {
+                    "sdtype": "categorical"
+                },
+                "clin-tipoFumador": {
                     "sdtype": "categorical"
                 },
                 "ques-QuejasMemo-Total-PD": {
@@ -96,7 +214,7 @@
                     "sdtype": "categorical"
                 },
                 "eval-TLP-CubCorsi-totalinversos-PD": {
-                    "sdtype": "numerical"
+                    "sdtype": "categorical"
                 },
                 "eval-TLP-CubCorsi-total-PD": {
                     "sdtype": "numerical"
@@ -123,7 +241,7 @@
                     "sdtype": "numerical"
                 },
                 "eval-TLP-Tavec-1_RI_A1-PD": {
-                    "sdtype": "numerical"
+                    "sdtype": "categorical"
                 },
                 "eval-TLP-Tavec-2_RI_A5-PD": {
                     "sdtype": "numerical"
@@ -132,7 +250,7 @@
                     "sdtype": "numerical"
                 },
                 "eval-TLP-Tavec-4_RI_B-PD": {
-                    "sdtype": "numerical"
+                    "sdtype": "categorical"
                 },
                 "eval-TLP-Tavec-5_Rg_Pr-PD": {
                     "sdtype": "numerical"
@@ -186,13 +304,13 @@
                     "sdtype": "numerical"
                 },
                 "eval-TLP-Tavec-22_I_RCL-PD": {
-                    "sdtype": "numerical"
+                    "sdtype": "categorical"
                 },
                 "eval-TLP-Tavec-23_Recon_Ac-PD": {
                     "sdtype": "categorical"
                 },
                 "eval-TLP-Tavec-24_FP-PD": {
-                    "sdtype": "numerical"
+                    "sdtype": "categorical"
                 },
                 "eval-TLP-Tavec-25_Discriminabilidad-PD": {
                     "sdtype": "numerical"

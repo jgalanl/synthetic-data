@@ -163,13 +163,15 @@ cython_debug/
 
 
 # Private data
-data/*/*Identia*.xlsx
-preprocessing/boxplots
+/data
 data/test
 data/train
 
+preprocessing/boxplots
+preprocessing/profile_report.html
+
 # Autogluon data
-autogluon/*/AutogluonModels
+autogluon/**/AutogluonModels
 
 # Tests scripts
 /tests
