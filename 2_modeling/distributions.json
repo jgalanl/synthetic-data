@@ -1,0 +1,19 @@
+{
+    "demo-edad": "gaussian_kde",
+    "eval-TLP-CubCorsi-totalDirectos-PD": "gaussian_kde",
+    "eval-TLP-CubCorsi-totalinversos-PD": "gamma",
+    "eval-TLP-CubCorsi-total-PD": "gaussian_kde",
+    "eval-TLP-FigRey-Duracion-PD": "beta",
+    "eval-TLP-FigRey-totalCopia-PD": "gaussian_kde",
+    "eval-TLP-FigRey-totalMemoria-PD": "gaussian_kde",
+    "eval-TLP-Stroop-palabras-PD": "gaussian_kde",
+    "eval-TLP-Stroop-color-PD": "gaussian_kde",
+    "eval-TLP-Stroop-palabrasColor-PD": "gaussian_kde",
+    "eval-TLP-Tavec-1_RI_A1-PD": "gaussian_kde",
+    "eval-TLP-Tavec-10_RL_LP-PD": "gaussian_kde",
+    "eval-TLP-Tavec-11_RCl_LP-PD": "gaussian_kde",
+    "eval-TLP-Tavec-2_RI_A5-PD": "gaussian_kde",
+    "eval-TLP-Tavec-3_RI_AT-PD": "gaussian_kde",
+    "eval-TLP-Tavec-8_RL_CP-PD": "gaussian_kde",
+    "eval-TLP-Tavec-9_RCl_CP-PD": "gaussian_kde"
+}
