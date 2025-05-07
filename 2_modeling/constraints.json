@@ -1,6 +1,7 @@
 [
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "clin-reservaCognitiva_escolaridad",
             "low_value": 0,
@@ -10,6 +11,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "demo-edad",
             "low_value": 18,
@@ -19,15 +21,17 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "demo-genero",
-            "low_value": 0,
-            "high_value": 1,
+            "low_value": 1,
+            "high_value": 2,
             "strict_boundaries": false
         }
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-CubCorsi-totalDirectos-PD",
             "low_value": 0.0,
@@ -37,6 +41,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-CubCorsi-totalinversos-PD",
             "low_value": 0.0,
@@ -46,6 +51,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-CubCorsi-total-PD",
             "low_value": 0.0,
@@ -55,6 +61,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-FigRey-Duracion-PD",
             "low_value": 0.0,
@@ -64,6 +71,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-FigRey-totalCopia-PD",
             "low_value": 0.0,
@@ -73,6 +81,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-FigRey-totalMemoria-PD",
             "low_value": 0.0,
@@ -82,6 +91,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-Stroop-palabras-PD",
             "low_value": 0.0,
@@ -91,6 +101,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-Stroop-color-PD",
             "low_value": 0.0,
@@ -100,6 +111,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-Stroop-palabrasColor-PD",
             "low_value": 0.0,
@@ -109,6 +121,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-Tavec-1_RI_A1-PD",
             "low_value": 0.0,
@@ -118,6 +131,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-Tavec-10_RL_LP-PD",
             "low_value": 0.0,
@@ -127,6 +141,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-Tavec-11_RCl_LP-PD",
             "low_value": 0.0,
@@ -136,6 +151,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-Tavec-2_RI_A5-PD",
             "low_value": 0.0,
@@ -145,6 +161,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-Tavec-3_RI_AT-PD",
             "low_value": 0.0,
@@ -154,6 +171,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-Tavec-8_RL_CP-PD",
             "low_value": 0.0,
@@ -163,6 +181,7 @@
     },
     {
         "constraint_class": "ScalarRange",
+        "table_name": "TLP",
         "constraint_parameters": {
             "column_name": "eval-TLP-Tavec-9_RCl_CP-PD",
             "low_value": 0.0,

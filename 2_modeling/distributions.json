@@ -1,5 +1,7 @@
 {
+    "clin-reservaCognitiva_escolaridad": "gaussian_kde",
     "demo-edad": "gaussian_kde",
+    "demo-genero": "gaussian_kde",
     "eval-TLP-CubCorsi-totalDirectos-PD": "gaussian_kde",
     "eval-TLP-CubCorsi-totalinversos-PD": "gamma",
     "eval-TLP-CubCorsi-total-PD": "gaussian_kde",
