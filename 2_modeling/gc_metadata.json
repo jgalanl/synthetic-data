@@ -6,13 +6,15 @@
                     "sdtype": "categorical"
                 },
                 "clin-reservaCognitiva_escolaridad": {
-                    "sdtype": "numerical"
+                    "sdtype": "numerical",
+                    "computer_representation": "Int8"
                 },
                 "demo-edad": {
                     "sdtype": "numerical"
                 },
                 "demo-genero": {
-                    "sdtype": "numerical"
+                    "sdtype": "numerical",
+                    "computer_representation": "Int8"
                 },
                 "eval-TLP-CubCorsi-totalDirectos-PD": {
                     "sdtype": "numerical"

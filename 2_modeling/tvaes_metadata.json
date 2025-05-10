@@ -1,0 +1,70 @@
+{
+    "tables": {
+        "TLP": {
+            "columns": {
+                "ED_2Clases": {
+                    "sdtype": "categorical"
+                },
+                "clin-reservaCognitiva_escolaridad": {
+                    "sdtype": "numerical"
+                },
+                "demo-edad": {
+                    "sdtype": "numerical"
+                },
+                "demo-genero": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-CubCorsi-totalDirectos-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-CubCorsi-totalinversos-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-CubCorsi-total-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-FigRey-Duracion-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-FigRey-totalCopia-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-FigRey-totalMemoria-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-Stroop-palabras-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-Stroop-color-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-Stroop-palabrasColor-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-Tavec-1_RI_A1-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-Tavec-10_RL_LP-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-Tavec-11_RCl_LP-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-Tavec-2_RI_A5-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-Tavec-3_RI_AT-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-Tavec-8_RL_CP-PD": {
+                    "sdtype": "numerical"
+                },
+                "eval-TLP-Tavec-9_RCl_CP-PD": {
+                    "sdtype": "numerical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
