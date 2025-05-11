@@ -171,7 +171,7 @@ preprocessing/boxplots
 preprocessing/profile_report.html
 
 # Autogluon data
-autogluon/**/AutogluonModels
+4_ml/**/AutogluonModels
 
 # Tests scripts
 /tests
