@@ -12,7 +12,7 @@
         "constraint_class": "ScalarRange",
         "constraint_parameters": {
             "column_name": "demo-edad",
-            "low_value": 18,
+            "low_value": 40,
             "high_value": 100,
             "strict_boundaries": false
         }
